@@ -1,0 +1,10 @@
+
+# Java compiled files
+*.class
+
+# Generated Q7 test data
+/score_files/
+
+# IDE files
+.vscode/
+.idea/
